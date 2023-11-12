@@ -1,0 +1,68 @@
+{
+  "build": {
+    "beforeDevCommand": "yarn dev",
+    "beforeBuildCommand": "yarn build",
+    "devPath": "http://localhost:8080",
+    "distDir": "../dist",
+    "withGlobalTauri": false
+  },
+  "package": {
+    "productName": "kezek-app",
+    "version": "0.0.1"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": true,
+      "path": {
+        "all": true
+      },
+      "http": {
+        "all": true,
+        "request": true,
+        "scope": ["http://**", "https://**"]
+      },
+      "shell": {
+        "all": false,
+        "open": true
+      },
+      "fs": {
+        "all": true,
+        "readFile": true,
+        "writeFile": true,
+        "scope": ["*"]
+      }
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "kz.kezek.api",
+      "icon": [
+        "icons/32x32.png",
+        "icons/128x128.png",
+        "icons/128x128@2x.png",
+        "icons/icon.icns",
+        "icons/icon.ico"
+      ]
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "resizable": true,
+        "title": "kezek-app",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "updater": {
+      "active": true,
+      "dialog": true,
+      "endpoints": [
+        "https://sarmay.github.io/kezek/install.json"
+      ],
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDdDRDMzQjBGOUI2RDJFMTUKUldRVkxtMmJEenZUZkx4TVptcjNWdzUvbDNQZ1o4dnhYYml6M1FvVndnTWROa0V1SE9RLzdxbk0K"
+    }
+  }
+}
