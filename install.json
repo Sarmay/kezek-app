@@ -1,0 +1,35 @@
+{
+  "version": "v0.0.5",
+  "notes": "- feat: xxx\n- fix: xxx",
+  "pub_date": "2023-11-12T10:31:58.620Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRk40Z0pHMDdIdWk1LzI4WWtpd2wwdVUwcUxDcjlUdmF5VVZXQjNyMGtxaktSaVY4V0lFbyt6MFBjZ2NjUFUvVkRvNWVTZkR3OUdZOUxhV1hOQnZJTlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg1MDczCWZpbGU6a2V6ZWstYXBwXzAuMC4zX3g2NF9lbi1VUy5tc2kuemlwCjd4MUM0VnpEYi9nV2FQWEw1OGdUdUFwYm9yZ3k5bnVPaTRXQ01odnR3MmNJYkhaditucmlFM0FUUHFCYkYzdTJIMnNCaWxPSTFyREN6d2szOWFyMERBPT0K",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_0.0.3_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRkhJR1RYOURtL0N4U3pJdlpTN3g2VjJkMFhYR1M1d3pSU0JpNmwzdTA3WVhOTVF4b28yK1FJOTdHSVlvSWFiWXhMVmI2R0RTUVdTaTg4K3ZZcDlkbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg0NTg1CWZpbGU6a2V6ZWstYXBwXzAuMC4zX2FtZDY0LkFwcEltYWdlLnRhci5nego5QTBSaW9MWURTS0lRNTVIV3lSL1ZFZUpWSk10K0ZzODNhcS9CalZSUmZ6b0lsRngyTGJ2NUFndnNsc1V0dVZRaTQwVVdvMU5INnFjZjhmNVpEZ1NDQT09Cg==",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_0.0.3_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRk9KaGhoNDNrR3hZMEFvQmRpWmJzcFVZaWJ6TmFRVkt2bEY3ajJGd0tFY1dTRlh5d1UrQTNTY0tYeDNLaEpxbkdtL1hMSmpaUWtnRnZ2anRiOUcvYUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg0NjMyCWZpbGU6a2V6ZWstYXBwLmFwcC50YXIuZ3oKeXhnZ1luYW94WXg5RnphMk9SdzkxMTNvSXJPdm1PQS9wVTV2c1lEampGR3NubGF5bnFPbjBtbXpJYXhnZllOQXBNUThldkRoRkhmK0w4L0RKVmdjQXc9PQo=",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRk9KaGhoNDNrR3hZMEFvQmRpWmJzcFVZaWJ6TmFRVkt2bEY3ajJGd0tFY1dTRlh5d1UrQTNTY0tYeDNLaEpxbkdtL1hMSmpaUWtnRnZ2anRiOUcvYUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg0NjMyCWZpbGU6a2V6ZWstYXBwLmFwcC50YXIuZ3oKeXhnZ1luYW94WXg5RnphMk9SdzkxMTNvSXJPdm1PQS9wVTV2c1lEampGR3NubGF5bnFPbjBtbXpJYXhnZllOQXBNUThldkRoRkhmK0w4L0RKVmdjQXc9PQo=",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_x64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRk9KaGhoNDNrR3hZMEFvQmRpWmJzcFVZaWJ6TmFRVkt2bEY3ajJGd0tFY1dTRlh5d1UrQTNTY0tYeDNLaEpxbkdtL1hMSmpaUWtnRnZ2anRiOUcvYUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg0NjMyCWZpbGU6a2V6ZWstYXBwLmFwcC50YXIuZ3oKeXhnZ1luYW94WXg5RnphMk9SdzkxMTNvSXJPdm1PQS9wVTV2c1lEampGR3NubGF5bnFPbjBtbXpJYXhnZllOQXBNUThldkRoRkhmK0w4L0RKVmdjQXc9PQo=",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRkhJR1RYOURtL0N4U3pJdlpTN3g2VjJkMFhYR1M1d3pSU0JpNmwzdTA3WVhOTVF4b28yK1FJOTdHSVlvSWFiWXhMVmI2R0RTUVdTaTg4K3ZZcDlkbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg0NTg1CWZpbGU6a2V6ZWstYXBwXzAuMC4zX2FtZDY0LkFwcEltYWdlLnRhci5nego5QTBSaW9MWURTS0lRNTVIV3lSL1ZFZUpWSk10K0ZzODNhcS9CalZSUmZ6b0lsRngyTGJ2NUFndnNsc1V0dVZRaTQwVVdvMU5INnFjZjhmNVpEZ1NDQT09Cg==",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_0.0.3_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUhyemk1REtsRk40Z0pHMDdIdWk1LzI4WWtpd2wwdVUwcUxDcjlUdmF5VVZXQjNyMGtxaktSaVY4V0lFbyt6MFBjZ2NjUFUvVkRvNWVTZkR3OUdZOUxhV1hOQnZJTlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5Nzg1MDczCWZpbGU6a2V6ZWstYXBwXzAuMC4zX3g2NF9lbi1VUy5tc2kuemlwCjd4MUM0VnpEYi9nV2FQWEw1OGdUdUFwYm9yZ3k5bnVPaTRXQ01odnR3MmNJYkhaditucmlFM0FUUHFCYkYzdTJIMnNCaWxPSTFyREN6d2szOWFyMERBPT0K",
+      "url": "https://github.com/Sarmay/kezek-app/releases/download/v0.0.5/kezek-app_0.0.3_x64_en-US.msi.zip"
+    }
+  }
+}
