@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "kezek-app",
-    "version": "0.0.1"
+    "version": "0.0.3"
   },
   "tauri": {
     "allowlist": {
@@ -62,7 +62,7 @@
       "endpoints": [
         "https://sarmay.github.io/kezek/install.json"
       ],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDdDRDMzQjBGOUI2RDJFMTUKUldRVkxtMmJEenZUZkx4TVptcjNWdzUvbDNQZ1o4dnhYYml6M1FvVndnTWROa0V1SE9RLzdxbk0K"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDE0QTUzMkU0RTJCQzFFRDgKUldUWUhyemk1REtsRktjSmVFaythK0pYNGFQK3EzSzUzbmljbzNnMVoxZmZ4WDlTNmNmNHZMVWwK"
     }
   }
 }

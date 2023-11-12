@@ -18,6 +18,9 @@ async function updater () {
   const options = { owner: context.repo.owner, repo: context.repo.repo }
   const github = getOctokit(token)
 
+  console.log('token:', token)
+  console.log('options:', options)
+
   // 获取 tag
   const { data: tags } = await github.rest.repos.listTags({
     ...options,
